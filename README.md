@@ -11,4 +11,4 @@
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(1)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150)|slow fast|O(N)|O(1)|
 |[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(1)|O(1)|
-|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1257373342/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(V+E)|O(N)|
+|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1257373342/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(V*E)|O(N)|
