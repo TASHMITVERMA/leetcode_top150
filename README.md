@@ -20,5 +20,8 @@
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/1258686327/?envType=study-plan-v2&envId=top-interview-150)|pointer|O(N)|O(1)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(Nlog N)+N)|O(1)|
 |[134. Gas Station](https://leetcode.com/problems/course-schedule/?envType=study-plan-v2&envId=top-interview-150)|misc|O(N)|O(1)|
+|[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N*M)|O(N*M)|
+|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150)|Hash set|O(N)|O(N)|
+|[45. Jump Game II](misc)|Misc|O(N)|O(1)|
 |--|--|--|--|
 |--|--|--|--|
