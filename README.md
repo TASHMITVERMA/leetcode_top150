@@ -23,5 +23,9 @@
 |[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N*M)|O(N*M)|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150)|Hash set|O(N)|O(N)|
 |[45. Jump Game II](misc)|Misc|O(N)|O(1)|
-|--|--|--|--|
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=study-plan-v2&envId=top-interview-150)|Backtrack|O(2^(n))|O(N)|
+|[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/?envType=study-plan-v2&envId=top-interview-150)|Binary Search|O(log N)|O(1)|
+|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)|Left-Right prod|O(N)|O(N)|
+|[27. Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(1)|
+|[198. House Robber](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N)|O(N|
 |--|--|--|--|
