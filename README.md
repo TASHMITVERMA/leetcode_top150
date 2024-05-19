@@ -28,4 +28,9 @@
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)|Left-Right prod|O(N)|O(N)|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(1)|
 |[198. House Robber](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N)|O(N|
+|[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150)|algo-hash|O(N)|O(N)|
+|[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150)|dfs|O(N)|O(N)|
+|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150)|Array|O(N)|O(1)|
+|[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?envType=study-plan-v2&envId=top-interview-150)|inorder|O(nlog(n)+n)|O(N)|
+|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150)|rec|O(4^digit length*n)|O(1)|
 |--|--|--|--|
