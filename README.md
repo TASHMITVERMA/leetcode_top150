@@ -33,5 +33,9 @@
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150)|Array|O(N)|O(1)|
 |[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?envType=study-plan-v2&envId=top-interview-150)|inorder|O(nlog(n)+n)|O(N)|
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150)|rec|O(4^digit length*n)|O(1)|
+|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N^2)|O(N)|
+|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(N)|O(1)|
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)|Post order|O(N)|O(1)|
+|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150)|2D-DP|O(N^2)|O(N^2)|
 |--|--|--|--|
 |--|--|--|--|
