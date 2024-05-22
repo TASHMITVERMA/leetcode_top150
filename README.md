@@ -37,5 +37,10 @@
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(N)|O(1)|
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)|Post order|O(N)|O(1)|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150)|2D-DP|O(N^2)|O(N^2)|
+|[274. H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(NlogN)|O(1)|
+|[151. Reverse Words in a String](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150)|2 POINTER|O(N)|O(N)|
+|[135. Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(N)|O(N)|
+|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150)|2 POINTER|O(N)|O(1)|
+|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N2|
 |--|--|--|--|
 |--|--|--|--|
