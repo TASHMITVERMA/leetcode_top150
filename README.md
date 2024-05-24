@@ -42,5 +42,14 @@
 |[135. Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(N)|O(N)|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150)|2 POINTER|O(N)|O(1)|
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N2|
+|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150)|sliding window|O(N)|O(1)|
+|[100. Same Tree](https://leetcode.com/problems/same-tree/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(N)|O(1)|
+|[67. Add Binary](https://leetcode.com/problems/add-binary/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(1)|
+|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=study-plan-v2&envId=top-interview-150)|Recursion|O(2^N)|O(1)|
+|[212. Word Search II](https://leetcode.com/problems/word-search-ii/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(TLE)||
+|--|--|--|--|
+|--|--|--|--|
+|--|--|--|--|
+|--|--|--|--|
 |--|--|--|--|
 |--|--|--|--|
