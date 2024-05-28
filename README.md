@@ -52,10 +52,10 @@
 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/?envType=study-plan-v2&envId=top-interview-150)|Dp|O(N2)|O(N2)|
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/?envType=study-plan-v2&envId=top-interview-150)|HEAP|O(N)|O(N)|
 |[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?envType=study-plan-v2&envId=top-interview-150)|Sliding window|O(N2)|O(1)|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
+|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)|Map|O(N)|O(N)|
+|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150)|LL|O(N)|O(N)|
+|[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N2)|O(N)|
+|[133. Clone Graph](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(V+E)|O(V)|
+|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(N)|O(1)|
 |--|--|--|--|
 |--|--|--|--|
