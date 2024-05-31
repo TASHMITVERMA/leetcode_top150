@@ -57,5 +57,11 @@
 |[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N2)|O(N)|
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(V+E)|O(V)|
 |[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(N)|O(1)|
+|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N)|O(N)|
+|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1273375302/?envType=study-plan-v2&envId=top-interview-150)|Binary search|log(N)|O(1)|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)|Binary Search|O(nlogn)|O(1)|
+|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(1)|O(1)|
+|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1273399259/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(N)|O(N)|
 |--|--|--|--|
 |--|--|--|--|
+
