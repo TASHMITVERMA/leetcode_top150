@@ -62,6 +62,11 @@
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)|Binary Search|O(nlogn)|O(1)|
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(1)|O(1)|
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1273399259/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(N)|O(N)|
+|[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(N)|
+|[46. Permutations](https://leetcode.com/problems/permutations/description/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(N*N!)|O(N)|
+|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N)|O(N)|
+|[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150)|Tree|O(N)|O(N)|
+|[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150)|sliding window with hash|O(N)|O(1)|
 |--|--|--|--|
 |--|--|--|--|
 
