@@ -67,6 +67,12 @@
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N)|O(N)|
 |[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150)|Tree|O(N)|O(N)|
 |[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150)|Sliding window with Hash|O(N)|O(1)|
+|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)|Bit Manipulation|O(n)|O(1)|
+|[50. Pow(x, n](https://leetcode.com/problems/powx-n/submissions/1275393310/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(logN)|O(logN)|
+|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1275395942/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(N)|O(1)|
+|[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)|BInary search|log(N)|O(1)|
+|[120. Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)|DP||--|
 |--|--|--|--|
 |--|--|--|--|
+
 
