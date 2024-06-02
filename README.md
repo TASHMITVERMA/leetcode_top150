@@ -71,7 +71,7 @@
 |[50. Pow(x, n](https://leetcode.com/problems/powx-n/submissions/1275393310/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(logN)|O(logN)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1275395942/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(N)|O(1)|
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)|BInary search|log(N)|O(1)|
-|[120. Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)O(N)|
+|[120. Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N)|
 |--|--|--|--|
 |--|--|--|--|
 
