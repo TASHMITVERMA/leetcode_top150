@@ -72,7 +72,7 @@
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1275395942/?envType=study-plan-v2&envId=top-interview-150)|Greedy|O(N)|O(1)|
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)|BInary search|log(N)|O(1)|
 |[120. Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N)|
+|[50. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(N)|
+|[4. Median of Two Sorted Arrays]()|Binary search|O(log (m+n))|O(1)|
 |--|--|--|--|
 |--|--|--|--|
-
-
