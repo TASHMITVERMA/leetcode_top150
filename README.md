@@ -73,6 +73,13 @@
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)|BInary search|log(N)|O(1)|
 |[120. Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N)|
 |[50. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(N)|
-|[4. Median of Two Sorted Arrays]()|Binary search|O(log (m+n))|O(1)|
+|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=study-plan-v2&envId=top-interview-150)|Binary search|O(log (m+n))|O(1)|
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1277551320/?envType=study-plan-v2&envId=top-interview-150%27)|Misc|O(nlogn)|O(n)|
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(N)|O(1)|
+|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=study-plan-v2&envId=top-interview-150)|BFS|O(N)|O(1)|
+|[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/?envType=study-plan-v2&envId=top-interview-150)|LL|O(N)|O(1)|
+|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(nlogn)|O(1)|
+|[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150)|BFS|O(N)|O(1)|
 |--|--|--|--|
 |--|--|--|--|
+
