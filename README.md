@@ -1,4 +1,4 @@
-**LeetCode Top 150**
+  **LeetCode Top 150**
 
 |Problem |Algorithms |Time Complexity|Space Complexity
 |--|--|--|--|
@@ -83,7 +83,7 @@
 |[25. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(n)|O(1)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(n2)|O(1)|
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(mn)|O(1)|
-|[79. Word Search](https://leetcode.com/problems/word-search/description/?envType=study-plan-v2&envId=top-interview-150)|Recur|2^n|O(1)|
+|[79. Word Search](https://leetcode.com/problems/word-search/description/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(M * N * 4^L)|O(L)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150)|sliding window|O(n)|O(1)|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(n)|O(1)|
 |--|--|--|--|
