@@ -91,6 +91,7 @@
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150)|sliding|O(n)|O(1)|
 |[383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150)|Hashing|O(n)|O(n)|
 |[68. Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(n)|O(n)|
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150)|DP|O(N2)|O(N2)|
 |--|--|--|--|
 |--|--|--|--|
 |--|--|--|--|
