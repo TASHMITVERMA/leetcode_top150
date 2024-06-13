@@ -86,6 +86,15 @@
 |[79. Word Search](https://leetcode.com/problems/word-search/description/?envType=study-plan-v2&envId=top-interview-150)|Recur|O(M * N * 4^L)|O(L)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150)|sliding window|O(n)|O(1)|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)|DFS|O(n)|O(1)|
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150)|sliding window|O(N)|O(1)|
+|[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(MN)|O(1)|
+|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150)|sliding|O(n)|O(1)|
+|[383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150)|Hashing|O(n)|O(n)|
+|[68. Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150)|Misc|O(n)|O(n)|
 |--|--|--|--|
 |--|--|--|--|
 |--|--|--|--|
+|--|--|--|--|
+|--|--|--|--|
+|--|--|--|--|
+
