@@ -1,4 +1,4 @@
-  **LeetCode Top 150** 
+  **LeetCode Top 150**  
   
 |Problem |Algorithms |Time Complexity|Space Complexity
 |--|--|--|--|
